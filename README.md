@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Delta203
-- I programm minecaft Java plugins since 2015
+- I programm Minecraft Java plugins since 2015
 - Java, Python, php skilled
 - student, computer science University Paderborn
 - https://www.hackerrank.com/Delta203
